@@ -78,9 +78,7 @@ print("===================================================================")
 ![image](https://user-images.githubusercontent.com/115732267/203851231-635048aa-11d9-41f5-b986-638db439af16.png)
 
 - Setelah memahami materi saya membuat syntax sebagai berikut untuk memenuhi tugas praktikum module 5 :
-
 ``` python
-
 from prettytable import PrettyTable
 
 print("===================================================================")
@@ -224,12 +222,42 @@ while True:
         break
     else:
         print("Anda Memilih Pilihan Yang Salah")
+    ```
         
-        ```
+- Berikut ini adalah hasil run dari syntax diatas akan diuraikan satu persatu
         
-        - Berikut ini adalah hasil run dari syntax diatas akan diuraikan satu persatu
-        
-        - Lihat data sebelum data ditambahkan
+- Lihat data sebelum data ditambahkan
+     
+![2](https://user-images.githubusercontent.com/115732267/204024507-1a99b790-c498-4f3b-bb22-c682b81fd14b.png)
+
+- Tambah data
+
+![3](https://user-images.githubusercontent.com/115732267/204024750-8771999b-9e3f-4caf-899a-73b2814cd959.png)
+
+- Lihat setelah tambah data
+
+![4](https://user-images.githubusercontent.com/115732267/204024891-82e67d69-44f5-4ade-a4f9-893c8f97d031.png)
+
+- Ubah data, dan pada gambar dibawah adalah hasil dari perubahan data
+
+![5](https://user-images.githubusercontent.com/115732267/204025063-c5367a83-5e2f-4cf6-b530-e6e3c9474a0e.png)
+
+- Mencari data yang diinputkan
+
+![6](https://user-images.githubusercontent.com/115732267/204025207-94e160f6-68fc-4a20-8f12-c522df2268c2.png)
+
+- Menghapus data yang diinputkan
+
+![7](https://user-images.githubusercontent.com/115732267/204025303-d0180f47-d687-485a-ae8b-955d577fb745.png)
+
+- Keluar dari program aplikasi
+
+![8](https://user-images.githubusercontent.com/115732267/204025411-6919c7f7-d21d-43c9-969e-8ef731a5f865.png)
+
+# Berikut langkah-langkah untuk tugas Pertemuan10 Praktium5.
+
+# THANKS YOU
+
         
 
 
